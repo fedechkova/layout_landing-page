@@ -16,7 +16,7 @@
     [DEMO LINK](https://fedechkova.github.io/layout_landing-page/)
 
   ## Design Reference
-    [Figma Design](PASTE_FIGMA_LINK_HERE)
+    [Figma Design](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f&t=3yOe56ThpnhdRhhx-0)
 
 
 
